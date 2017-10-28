@@ -3,6 +3,11 @@
   (:require [re-frame.core :as re-frame]))
 
 (re-frame/reg-sub
- :name
+ :video-link
  (fn [db]
-   (:name db)))
+   (let [{:keys [video-link time jump-seq playing]} db]
+    (str video-link
+         "?start=" time
+         "&autoplay=" playing
+         "&jump-seq=" jump-seq))))
+
