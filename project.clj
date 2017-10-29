@@ -61,7 +61,7 @@
                 :source-paths ["src/cljs" "src/cljc"]
                 :jar true
                 :compiler {:main bp.system
-                           :output-to "resources/public/js/compiled/bp.js"
+                           :output-to "resources/public/js/bp.js"
                            :output-dir "target"
                            :source-map-timestamp true
                            :optimizations :advanced
