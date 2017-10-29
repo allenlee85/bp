@@ -13,6 +13,8 @@
  (fn [db event]
    (-> db
        (assoc :cur-chords (second event))
+       (assoc :playing 0)
+       (assoc :time 0)
        (assoc :video-link (:video-link (bp.chords/chord-db (second event)))))))
 
 (re-frame.core/reg-event-fx

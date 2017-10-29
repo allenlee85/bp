@@ -140,7 +140,7 @@ D#m                                       C# F# D#m
 Walkin' with a dead man over my shoulder
 
 D#m                                  C# F# D#m
-Waiting for an invitation to arrive
+52|Waiting for an invitation to arrive
 D#m                                          C# F# D#m
 Goin' to a party where no one's still alive
 D#m                                  C# F# D#m
