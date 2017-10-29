@@ -3,6 +3,11 @@
   (:require [re-frame.core :as re-frame]))
 
 (re-frame/reg-sub
+ :cur-chords
+ (fn [db]
+   (:cur-chords db)))
+
+(re-frame/reg-sub
  :video-link
  (fn [db]
    (let [{:keys [video-link time jump-seq playing]} db]

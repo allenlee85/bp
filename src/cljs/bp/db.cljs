@@ -1,8 +1,9 @@
-(ns bp.db)
+(ns bp.db
+  (:require [bp.chords]))
 
 (def default-db
-  {:video-link "https://www.youtube.com/embed/0d4sT2p0a2Q"
+  {:video-link (:video-link (second (first bp.chords/chord-db)))
    :time 0
    :jump-seq 0
    :playing 0
-   })
+   :cur-chords (first (first bp.chords/chord-db))})
