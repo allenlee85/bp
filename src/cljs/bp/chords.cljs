@@ -50,7 +50,7 @@ Why don't you set me free?
 
 [Verse]
           D           C
-75|And every time that I think 
+1:15|And every time that I think 
         Am
 About the better days
          D            C
@@ -66,7 +66,7 @@ I still need to forget
 
 
                D         C          Am
-92|Cause when you wanted protection
+1:32|Cause when you wanted protection
             D           C           Am
 You used to call out my name
              D          C           Am
@@ -89,7 +89,7 @@ Why don't you set me free?
 
 
 C              Am    D      Am 
-125|All you got to do is set me free
+2:06|All you got to do is set me free
 C              Am    D      Am 
 All you got to do is set me free
 C              Am    D      Am 
@@ -99,13 +99,13 @@ All you got to do is set me free
 
 
 [Break]   ***down strums (same pattern for latter part of the break)
-143|C   C   Am  Am    D   D  Am   Am
+2:23|C   C   Am  Am    D   D  Am   Am
 C   C   Am  Am    D   D  Am   Am
 C   C   Am  Am    D   D  Am   Am
 C   C   Am  Am    D   D  Am   Am
  
 C              Am    D      Am 
-159|All you got to do is set me free
+2:39|All you got to do is set me free
 C              Am    D      Am 
 All you got to do is set me free
 C              Am    D      Am 
@@ -116,7 +116,7 @@ All you got to do is set me free
 [End Break]
 
 C              Am    D      Am 
-177|All you got to do is set me free
+2:57|All you got to do is set me free
 C              Am    D      Am 
 All you got to do is set me free
 C              Am    D      Am 
