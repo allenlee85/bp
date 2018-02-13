@@ -1,4 +1,5 @@
 # bp
+[![Build Status](https://travis-ci.org/allenlee85/bp.svg?branch=master)](https://travis-ci.org/allenlee85/bp)
 
 Band Practice App
 
